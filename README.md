@@ -18,7 +18,15 @@ This is a beginner-friendly project to practice Java basics like loops, input ha
 - Random number generation between 1 and 10  
 - Input validation (only numbers allowed)  
 - Hints for high or low guesses  
-- Beginner-friendly  
+- Beginner-friendly
+
+## Concepts Used
+- Loops (`for` and `while`)  
+- Conditional statements (`if`, `else if`, `else`)  
+- Methods (for input, random number generation, and guessing logic)  
+- Input validation (ensuring user enters numbers only)  
+- Random number generation using `Random` class  
+- Scanner class for user input  
 
 ## Usage
 Compile and run the program:
